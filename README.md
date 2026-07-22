@@ -1,3 +1,5 @@
+<img width="3780" height="1890" alt="Project-DarkDroid" src="https://github.com/user-attachments/assets/37e8f120-c10f-47d4-ac8c-50fb7b43eb5f" />
+
 # What is this RubyROM?
 RubyROM is a work-in-progress custom firmware for Samsung Galaxy S24 FE.
 
@@ -136,16 +138,3 @@ Original UN1CA credits:
 - **[iDrinkCoffee](https://github.com/iDrinkCoffee-TG)** and **[RisenID](https://github.com/RisenID)** for documentation revisioning
 - **[LineageOS Team](https://www.lineageos.org/)** for their original [OTA updater implementation](https://github.com/LineageOS/android_packages_apps_Updater)
 - *All the UN1CA project contributors and testers ❤️*
-
-# Kernel sources and device trees
-- 9820 Kernel Source Code (Maintainer: @ExtremeXT): https://github.com/ExtremeXT/M62-backport
-- 9820 Device Tree Code (Maintainer: @ExtremeXT): https://github.com/ExtremeXT/android_device_samsung_exynos9820
-- 990 Kernel Source Code (Maintainer: @ExtremeXT): https://github.com/ExtremeXT/990_upstream_v2
-- 990 Device Tree Code (Maintainer: @ExtremeXT): https://github.com/ExtremeXT/android_device_samsung_exynos9820
-- 2100 Kernel Source Code (Maintainer: @xfwdrev/@maximusXZ): https://github.com/xfwdrev/android_kernel_samsung_ex2100
-- 2100 Device Tree Code (Maintainer: @xfwdrev/@maximusXZ): https://github.com/xfwdrev/android_device_samsung_exynos2100
-- 2200 Kernel Source Code (Maintainer: @dupazlasu): https://github.com/ExtremeXT/android_kernel_samsung_s5e9925
-- 2200 Device Tree Code (Maintainer: @dupazlasu): https://github.com/dupazlasu/android_device_samsung_s5e9925
-
-# Stargazers over time
-[![Stargazers over time](https://starchart.cc/ExtremeXT/ExtremeROM.svg)](https://starchart.cc/ExtremeXT/ExtremeROM)
