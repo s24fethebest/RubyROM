@@ -1,33 +1,15 @@
-<h1 align="center">
-  <img loading="lazy" src="readme-res/banner.png"/>
-</h1>
-<p align="center">
-  <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/ExtremeXT/ExtremeROM?style=for-the-badge&logo=github"/></a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/commits/fifteen"><img loading="lazy" src="https://img.shields.io/github/last-commit/ExtremeXT/ExtremeROM/fifteen?style=for-the-badge"/></a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
-</p>
-<p align="center">ExtremeROM Nexus is a work-in-progress custom firmware for Samsung Galaxy devices.</p>
-
-<p align="center">
-  <a href="https://t.me/extremerom">💬 Telegram</a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/wiki">📖 Wiki</a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/CHANGELOG.md">📝 Changelog</a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/MAINTAINERS">🧑‍💻 Maintainers</a>
-</p>
-
-# What is ExtremeROM Nexus?
-ExtremeROM Nexus is a work-in-progress custom firmware for Samsung Galaxy devices.
+# What is this RubyROM fork?
+RubyROM is a work-in-progress custom firmware for Samsung Galaxy S24 FE.
 
 It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
 
 It is based on the UN1CA build system which allows automatic downloading/extraction of the firmware, applying the required patches and generating a flashable zip package for the specified target device.
 
-ExtremeROM Nexus supports devices using the Exynos 9820, Exynos 990, Exynos 2100 and Exynos 2200 SoCs
+RubyROM only supports Exynos 2400 SoC
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
-# EOL Notice
+# EOL Notice (Original ExtremeROM)
 As of 04-01-2026, ExtremeROM is officially considered end of life until further notice.
 
 I reserve all rights to this project and any future continuations or spin-offs.
@@ -40,6 +22,18 @@ The unfinished/WIP sixteen branch has also been published for any developer that
 
 I wish to thank everyone for the support given during the lifetime of this project. Thanks to all maintainers and users for everything.
 
+
+# EOL Notice (RubyROM)
+As of 22-07-2026, RubyROM is officially reached the end of life.
+
+I reserve all rights to this project and any future continuations or spin-offs.
+
+No updates or support will be provided, but the repository will remain public.
+
+This notice does NOT change the GPLv3 license of this project.
+
+I wish to thank everyone for the support given during the lifetime of this project. Thanks to all maintainers and users for everything.
+
 # Features
 - Based on the latest stable OneUI 7 Galaxy S24 FE firmware
 - All software features from S24 FE
@@ -48,7 +42,6 @@ I wish to thank everyone for the support given during the lifetime of this proje
 - Heavily DeKnoxed
 - Full SELinux Support
 - Full Galaxy AI support
-- Completely upstreamed kernels for all officially supported devices
 - Now Brief Support
 - Adaptive color tone support
 - Super HDR support
@@ -68,9 +61,6 @@ I wish to thank everyone for the support given during the lifetime of this proje
 - Extra CSC features (Call recording, Network speed in status bar, 5GHz Hotspot)
 - Countless other small optimizations
 - More that I can't remember right now and will have to be added in the future
-
-# Bugs
-See the <a href="https://github.com/ExtremeXT/ExtremeROM/issues">⚠ Issues</a> tab
 
 # Licensing
 This project is licensed under the terms of the [GNU General Public License v3.0](LICENSE). External dependencies might be distributed under a different license, such as:
@@ -101,6 +91,10 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 ```
 
 # Credits
+- @Android-Artisan for r12s target and Exynos 2400 platform
+- WalterGrayzz for helping me which folders to delete from the unica/patches folder
+
+Original ExtremeROM credits:
 A big thanks goes to the following for their invaluable contributions in no particular order (MORE INFO AND PEOPLE: TO BE WRITTEN)
 - **[salvogiangri](https://github.com/salvogiangri)** for the UN1CA build system, OneUI patches, and general help and support while developing
 - **[Ocin4Ever](https://github.com/Ocin4Ever)** for a lot of help especially on smali, advice and emotional support :D
