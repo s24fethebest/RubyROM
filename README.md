@@ -1,5 +1,7 @@
 <img width="3780" height="1890" alt="Project-DarkDroid" src="https://github.com/user-attachments/assets/37e8f120-c10f-47d4-ac8c-50fb7b43eb5f" />
 
+Recommended Kernel for S24 FE -> [WildKernels 6.1.93](https://github.com/WildKernels/GKI_KernelSU_SUSFS/releases/download/r5/6.1.93-android14-2024-09-AnyKernel3.zip) [KernelSU-Next APK](https://github.com/KernelSU-Next/KernelSU-Next/actions/runs/28019765691)
+
 # What is this RubyROM?
 RubyROM is a work-in-progress custom firmware for Samsung Galaxy S24 FE.
 
