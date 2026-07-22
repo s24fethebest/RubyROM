@@ -615,7 +615,7 @@ PRINT_HEADER()
     echo    'assert(run_program("/sbin/sh", "-c", "while true; do getevent -lc 1 | grep -q -m1 '\''KEY_VOLUMEUP'\'' && exit 0; sleep 1; done"));'
     echo    'ui_print("Volume UP detected. Proceeding!");'
     echo    'ui_print("****************************************************");'
-# ]
+}
 
 [ -d "$TMP_DIR" ] && rm -rf "$TMP_DIR"
 mkdir -p "$TMP_DIR/META-INF/com/google/android"
