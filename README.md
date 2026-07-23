@@ -14,7 +14,7 @@ RubyROM only supports Exynos 2400 SoC
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
 # EOL Notice (Original ExtremeROM)
-As of end of July 2026, ExtremeROM is officially considered end of life until further notice.
+As of 04-01-2026, ExtremeROM is officially considered end of life until further notice.
 
 I reserve all rights to this project and any future continuations or spin-offs.
 
@@ -28,7 +28,7 @@ I wish to thank everyone for the support given during the lifetime of this proje
 
 
 # EOL Notice (RubyROM)
-As of 22-07-2026, RubyROM is officially reached the end of life.
+As of end of July, RubyROM is officially reached the end of life.
 
 I reserve all rights to this project and any future continuations or spin-offs.
 
