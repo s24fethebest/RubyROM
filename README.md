@@ -108,7 +108,7 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 - **[Wuang26](https://github.com/Wuang26)** for **[Kaorios Toolbox](https://github.com/Wuang26/Kaorios-Toolbox)**
 - **[likelikeslike](https://github.com/likelikeslike)** for **[Viper4Android](https://github.com/likelikeslike/ViPER4Android)**
 
-Original ExtremeROM credits:
+## Original ExtremeROM credits:
 A big thanks goes to the following for their invaluable contributions in no particular order (MORE INFO AND PEOPLE: TO BE WRITTEN)
 - **[salvogiangri](https://github.com/salvogiangri)** for the UN1CA build system, OneUI patches, and general help and support while developing
 - **[Ocin4Ever](https://github.com/Ocin4Ever)** for a lot of help especially on smali, advice and emotional support :D
@@ -141,7 +141,7 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **@april865** (TG) for ExtremeROM Nexus banner
 - And everyone else who aided in testing, wiki, translations etc!
 
-Original UN1CA credits:
+## Original UN1CA credits:
 - **[ShaDisNX255](https://github.com/ShaDisNX255)** for his help, time and for his [NcX ROM](https://github.com/ShaDisNX255/NcX_Stock) which inspired this project
 - **[DavidArsene](https://github.com/DavidArsene)** for his help and time
 - **[paulowesll](https://github.com/paulowesll)** for his help and support
