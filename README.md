@@ -1,15 +1,21 @@
 <img width="3780" height="1890" alt="Project-DarkDroid" src="https://github.com/user-attachments/assets/37e8f120-c10f-47d4-ac8c-50fb7b43eb5f" />
 
-Recommended Kernel for S24 FE -> [WildKernels 6.1.93](https://github.com/WildKernels/GKI_KernelSU_SUSFS/releases/download/r5/6.1.93-android14-2024-09-AnyKernel3.zip) [KernelSU-Next APK](https://github.com/KernelSU-Next/KernelSU-Next/actions/runs/28019765691)
+## Downloads
+**Test/Beta Channel:** [Test1(26.0.0-f28c108e)](https://github.com/s24fethebest/RubyROM/releases/tag/26.0.0-Test1)
 
-# What is this RubyROM?
-RubyROM is a work-in-progress custom firmware for Samsung Galaxy S24 FE.
+**Stable:** *Unavailable*
+
+## Recommended Stuff
+**Recommended Kernel for S24 FE**(Credits: [@WildKernels](https://github.com/WildKernels)) -> [WildKernels 6.1.93](https://github.com/WildKernels/GKI_KernelSU_SUSFS/releases/download/r5/6.1.93-android14-2024-09-AnyKernel3.zip) [KernelSU-Next APK](https://github.com/KernelSU-Next/KernelSU-Next/actions/runs/28019765691)
+
+# What is RubyROM?
+**RubyROM** is a work-in-progress custom firmware for **Samsung Galaxy S24 FE** and is a fork of [**ExtremeROM**](https://github.com/ExtremeXT/ExtremeROM).
 
 It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
 
 It is based on the UN1CA build system which allows automatic downloading/extraction of the firmware, applying the required patches and generating a flashable zip package for the specified target device.
 
-RubyROM only supports Exynos 2400 SoC
+***RubyROM only supports Exynos 2400 SoC(officially)***
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
@@ -40,18 +46,20 @@ I wish to thank everyone for the support given during the lifetime of this proje
 
 # Features
 - Based on the latest stable OneUI 7 Galaxy S24 FE firmware
+- Kaorios Toolbox for spoofing and play integrity fix
+- Viper4Android Sound Mod
 - All software features from S24 FE
 - S25 Ultra CSC, ringtones and more
 - Moderately Debloated
 - Heavily DeKnoxed
-- Full SELinux Support
+- Full SELinux Support(including Now Brief)
 - Full Galaxy AI support
 - Now Brief Support
 - Adaptive color tone support
 - Super HDR support
 - Adaptive Brightness support
 - Full CSC support
-- Adaptive Refresh Rate support (for some models)
+- Adaptive Refresh Rate support
 - Multi-User support
 - AppLock support
 - EroFS partitions
@@ -95,8 +103,10 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 ```
 
 # Credits
-- @Android-Artisan for r12s target and Exynos 2400 platform
-- WalterGrayzz for helping me which folders to delete from the unica/patches folder
+- **[Android-Artisan](https://github.com/Android-Artisan)** for r12s target and Exynos 2400 platform
+- **[WalterGrayz](https://github.com/WalterGrayz)** for helping me which folders to delete from the unica/patches folder
+- **[Wuang26](https://github.com/Wuang26)** for **[Kaorios Toolbox](https://github.com/Wuang26/Kaorios-Toolbox)**
+- **[likelikeslike](https://github.com/likelikeslike)** for **[Viper4Android](https://github.com/likelikeslike/ViPER4Android)**
 
 Original ExtremeROM credits:
 A big thanks goes to the following for their invaluable contributions in no particular order (MORE INFO AND PEOPLE: TO BE WRITTEN)
